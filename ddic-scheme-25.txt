@@ -1,0 +1,181 @@
+field_num	field	attr_1	attr_2	attr_3	attr_4	attr_5	attr_6	attr_7
+1	codeBook	ID	xml:lang	version	xsi:schemaLocation	xmlns	xmlns:xsi	
+2	codeBook/docDscr							
+3	codeBook/docDscr/citation							
+4	codeBook/docDscr/citation/titlStmt							
+5	codeBook/docDscr/citation/titlStmt/titl							
+6	codeBook/docDscr/citation/titlStmt/subTitl							
+7	codeBook/docDscr/citation/titlStmt/altTitl							
+8	codeBook/docDscr/citation/titlStmt/parTitl							
+9	codeBook/docDscr/citation/titlStmt/IDNo							
+10	codeBook/docDscr/citation/rspStmt							
+11	codeBook/docDscr/citation/rspStmt/AuthEnty	affiliation						
+12	codeBook/docDscr/citation/rspStmt/othId	affiliation						
+13	codeBook/docDscr/citation/rspStmt/othId/p							
+14	codeBook/docDscr/citation/prodStmt							
+15	codeBook/docDscr/citation/prodStmt/producer	abbr	affiliation	role				
+16	codeBook/docDscr/citation/prodStmt/copyright							
+17	codeBook/docDscr/citation/prodStmt/prodDate	date						
+18	codeBook/docDscr/citation/prodStmt/software	version	date					
+19	codeBook/docDscr/citation/distStmt							
+20	codeBook/docDscr/citation/distStmt/distrbtr	abbr	affiliation	URI				
+21	codeBook/docDscr/citation/distStmt/contact	affiliation	URI	email				
+22	codeBook/docDscr/citation/distStmt/depositr							
+23	codeBook/docDscr/citation/distStmt/distDate	date						
+24	codeBook/docDscr/docSrc							
+25	codeBook/docDscr/docSrc/titlStmt							
+26	codeBook/docDscr/docSrc/titlStmt/titl							
+27	codeBook/docDscr/docSrc/rspStmt							
+28	codeBook/docDscr/docSrc/rspStmt/AuthEnty							
+29	codeBook/docDscr/docSrc/prodStmt							
+30	codeBook/docDscr/docSrc/prodStmt/producer							
+31	codeBook/docDscr/docSrc/distStmt							
+32	codeBook/docDscr/docSrc/distStmt/distrbtr							
+33	codeBook/docDscr/docSrc/distStmt/contact							
+34	codeBook/docDscr/docSrc/distStmt/depositr							
+35	codeBook/stdyDscr							
+36	codeBook/stdyDscr/citation							
+37	codeBook/stdyDscr/citation/titlStmt							
+38	codeBook/stdyDscr/citation/titlStmt/titl	xml:lang						
+39	codeBook/stdyDscr/citation/titlStmt/subTitl							
+40	codeBook/stdyDscr/citation/titlStmt/altTitl							
+41	codeBook/stdyDscr/citation/titlStmt/parTitl	xml:lang						
+42	codeBook/stdyDscr/citation/titlStmt/IDNo	agency						
+43	codeBook/stdyDscr/citation/rspStmt							
+44	codeBook/stdyDscr/citation/rspStmt/AuthEnty	affiliation						
+45	codeBook/stdyDscr/citation/rspStmt/othId	affiliation						
+46	codeBook/stdyDscr/citation/rspStmt/othId/p							
+47	codeBook/stdyDscr/citation/prodStmt							
+48	codeBook/stdyDscr/citation/prodStmt/producer	abbr	affiliation	role				
+49	codeBook/stdyDscr/citation/prodStmt/prodDate	date						
+50	codeBook/stdyDscr/citation/prodStmt/prodPlac							
+51	codeBook/stdyDscr/citation/prodStmt/software	version	date					
+52	codeBook/stdyDscr/citation/prodStmt/fundAg	abbr	role					
+53	codeBook/stdyDscr/citation/prodStmt/grantNo							
+54	codeBook/stdyDscr/citation/distStmt							
+55	codeBook/stdyDscr/citation/distStmt/distrbtr	abbr	affiliation	URI				
+56	codeBook/stdyDscr/citation/distStmt/contact	affiliation	URI	email				
+57	codeBook/stdyDscr/citation/distStmt/depositr	abbr	affiliation					
+58	codeBook/stdyDscr/citation/distStmt/depDate	date						
+59	codeBook/stdyDscr/citation/distStmt/distDate	date						
+60	codeBook/stdyDscr/citation/serStmt							
+61	codeBook/stdyDscr/citation/serStmt/serName							
+62	codeBook/stdyDscr/citation/serStmt/serInfo							
+63	codeBook/stdyDscr/citation/verStmt							
+64	codeBook/stdyDscr/citation/verStmt/version	date						
+65	codeBook/stdyDscr/citation/verStmt/notes							
+66	codeBook/stdyDscr/citation/biblCit							
+67	codeBook/stdyDscr/stdyInfo							
+68	codeBook/stdyDscr/stdyInfo/subject							
+69	codeBook/stdyDscr/stdyInfo/subject/keyword	vocab	vocabURI					
+70	codeBook/stdyDscr/stdyInfo/subject/topcClas	vocab	vocabURI					
+71	codeBook/stdyDscr/stdyInfo/abstract							
+72	codeBook/stdyDscr/stdyInfo/abstract/ExtLink	URI	role	title				
+73	codeBook/stdyDscr/stdyInfo/sumDscr							
+74	codeBook/stdyDscr/stdyInfo/sumDscr/timePrd	date	event					
+75	codeBook/stdyDscr/stdyInfo/sumDscr/collDate	date	event	cycle				
+76	codeBook/stdyDscr/stdyInfo/sumDscr/nation	abbr						
+77	codeBook/stdyDscr/stdyInfo/sumDscr/geogCover							
+78	codeBook/stdyDscr/stdyInfo/sumDscr/geogUnit							
+79	codeBook/stdyDscr/stdyInfo/sumDscr/anlyUnit	unit						
+80	codeBook/stdyDscr/stdyInfo/sumDscr/universe							
+81	codeBook/stdyDscr/stdyInfo/sumDscr/dataKind	type						
+82	codeBook/stdyDscr/method							
+83	codeBook/stdyDscr/method/dataColl							
+84	codeBook/stdyDscr/method/dataColl/timeMeth	method						
+85	codeBook/stdyDscr/method/dataColl/dataCollector	abbr	affiliation					
+86	codeBook/stdyDscr/method/dataColl/frequenc							
+87	codeBook/stdyDscr/method/dataColl/sampProc							
+88	codeBook/stdyDscr/method/dataColl/sampProc/ExtLink	URI	title					
+89	codeBook/stdyDscr/method/dataColl/deviat							
+90	codeBook/stdyDscr/method/dataColl/collMode							
+91	codeBook/stdyDscr/method/dataColl/collMode/ExtLink	URI	title					
+92	codeBook/stdyDscr/method/dataColl/collMode/txt							
+93	codeBook/stdyDscr/method/dataColl/resInstru	type						
+94	codeBook/stdyDscr/method/dataColl/collSitu							
+95	codeBook/stdyDscr/method/dataColl/actMin							
+96	codeBook/stdyDscr/method/dataColl/weight/ExtLink	URI	title					
+97	codeBook/stdyDscr/method/dataColl/weight							
+98	codeBook/stdyDscr/method/dataColl/cleanOps							
+99	codeBook/stdyDscr/method/dataColl/sources							
+100	codeBook/stdyDscr/method/dataColl/sources/dataSrc							
+101	codeBook/stdyDscr/method/notes	subject						
+102	codeBook/stdyDscr/method/anlyInfo							
+103	codeBook/stdyDscr/method/anlyInfo/respRate							
+104	codeBook/stdyDscr/dataAccs							
+105	codeBook/stdyDscr/dataAccs/setAvail							
+106	codeBook/stdyDscr/dataAccs/setAvail/accsPlac	URI						
+107	codeBook/stdyDscr/dataAccs/setAvail/origArch							
+108	codeBook/stdyDscr/dataAccs/setAvail/avlStatus							
+109	codeBook/stdyDscr/dataAccs/setAvail/fileQnty							
+110	codeBook/stdyDscr/dataAccs/useStmt							
+111	codeBook/stdyDscr/dataAccs/useStmt/confDec	required						
+112	codeBook/stdyDscr/dataAccs/useStmt/restrctn							
+113	codeBook/stdyDscr/dataAccs/useStmt/contact	affiliation	URI	email				
+114	codeBook/stdyDscr/dataAccs/useStmt/citReq							
+115	codeBook/stdyDscr/dataAccs/useStmt/deposReq							
+116	codeBook/stdyDscr/dataAccs/useStmt/conditions							
+117	codeBook/stdyDscr/dataAccs/useStmt/disclaimer							
+118	codeBook/stdyDscr/othrStdyMat							
+119	codeBook/stdyDscr/othrStdyMat/relMat							
+120	codeBook/stdyDscr/othrStdyMat/relMat/citation							
+121	codeBook/stdyDscr/othrStdyMat/relMat/citation/titlStmt							
+122	codeBook/stdyDscr/othrStdyMat/relMat/citation/titlStmt/titl							
+123	codeBook/stdyDscr/othrStdyMat/relMat/citation/holdings	URI						
+124	codeBook/stdyDscr/othrStdyMat/relStdy							
+125	codeBook/stdyDscr/othrStdyMat/relStdy/citation							
+126	codeBook/stdyDscr/othrStdyMat/relStdy/citation/titlStmt							
+127	codeBook/stdyDscr/othrStdyMat/relStdy/citation/titlStmt/titl							
+128	codeBook/stdyDscr/othrStdyMat/relStdy/citation/titlStmt/IDNo	agency						
+129	codeBook/stdyDscr/othrStdyMat/relStdy/citation/holdings	URI						
+130	codeBook/stdyDscr/othrStdyMat/relPubl/citation/notes							
+131	codeBook/stdyDscr/othrStdyMat/relPubl							
+132	codeBook/stdyDscr/othrStdyMat/relPubl/citation							
+133	codeBook/stdyDscr/othrStdyMat/relPubl/citation/titlStmt							
+134	codeBook/stdyDscr/othrStdyMat/relPubl/citation/titlStmt/titl							
+135	codeBook/stdyDscr/othrStdyMat/relPubl/citation/holdings	URI						
+136	codeBook/stdyDscr/othrStdyMat/othRefs							
+137	codeBook/stdyDscr/othrStdyMat/othRefs/citation							
+138	codeBook/stdyDscr/othrStdyMat/othRefs/citation/titlStmt							
+139	codeBook/stdyDscr/othrStdyMat/othRefs/citation/titlStmt/titl							
+140	codeBook/stdyDscr/othrStdyMat/othRefs/citation/holdings	URI						
+141	codeBook/fileDscr	URI						
+142	codeBook/fileDscr/fileTxt							
+143	codeBook/fileDscr/fileTxt/fileName	ID						
+144	codeBook/fileDscr/fileTxt/fileCont							
+145	codeBook/fileDscr/fileTxt/dimensns							
+146	codeBook/fileDscr/fileTxt/dimensns/caseQnty							
+147	codeBook/fileDscr/fileTxt/dimensns/varQnty							
+148	codeBook/fileDscr/fileTxt/fileType							
+149	codeBook/fileDscr/fileTxt/dataMsng							
+150	codeBook/fileDscr/notes							
+151	codeBook/dataDscr							
+152	codeBook/dataDscr/varGrp	ID	type	var	varGrp			
+153	codeBook/dataDscr/varGrp/labl							
+154	codeBook/dataDscr/varGrp/txt							
+155	codeBook/dataDscr/var	ID	name	wgt	wgt-var	files	dcml	intrvl
+156	codeBook/dataDscr/var/location	width	RecSegNo					
+157	codeBook/dataDscr/var/labl							
+158	codeBook/dataDscr/var/qstn							
+159	codeBook/dataDscr/var/qstn/preQTxt							
+160	codeBook/dataDscr/var/qstn/qstnLit							
+161	codeBook/dataDscr/var/qstn/postQTxt							
+162	codeBook/dataDscr/var/qstn/ivuInstr							
+163	codeBook/dataDscr/var/valrng							
+164	codeBook/dataDscr/var/valrng/range	UNITS	min	max				
+165	codeBook/dataDscr/var/invalrng							
+166	codeBook/dataDscr/var/invalrng/item	UNITS	VALUE					
+167	codeBook/dataDscr/var/invalrng/range	UNITS	min	max				
+168	codeBook/dataDscr/var/universe	clusion						
+169	codeBook/dataDscr/var/sumStat	wgtd	type					
+170	codeBook/dataDscr/var/txt							
+171	codeBook/dataDscr/var/catgry	missing						
+172	codeBook/dataDscr/var/catgry/catValu							
+173	codeBook/dataDscr/var/catgry/labl							
+174	codeBook/dataDscr/var/catgry/catStat	type	wgtd					
+175	codeBook/dataDscr/var/concept							
+176	codeBook/dataDscr/var/varFormat	type	formatname	schema	category			
+177	codeBook/dataDscr/var/notes							
+178	codeBook/otherMat	level	URI					
+179	codeBook/otherMat/labl							
+180	codeBook/otherMat/txt							
